@@ -112,11 +112,11 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #f56a6a;
+  color: #6a88f5;
   text-decoration: none; }
   a:hover {
-    border-bottom-color: #f56a6a;
-    color: #f56a6a !important; }
+    border-bottom-color: #6a6ff5;
+    color: #6a98f5 !important; }
     a:hover strong {
       color: inherit; }
 
@@ -998,7 +998,7 @@ header p {
   text-transform: uppercase; }
 
 header.major > :last-child {
-  border-bottom: solid 3px #f56a6a;
+  border-bottom: solid 3px #6a7ff5;
   display: inline-block;
   margin: 0 0 2em 0;
   padding: 0 0.75em 0.5em 0; }
@@ -2075,7 +2075,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #f56a6a;
+  border-bottom: solid 5px #6a8df5;
   padding: 6em 0 1em 0;
   position: relative; }
   #header > * {
